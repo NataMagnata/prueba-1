@@ -93,11 +93,4 @@ Los datos de entrada deben contener las siguientes columnas:
 Los datos procesados se guardarán en formato PVWatts v8 con la siguiente convención de nombres:
 - `[nombre_archivo_original]_pvwatts_final.csv`
 
-## Contribuciones
-
-Siéntase libre de enviar problemas y solicitudes de mejora.
-
-## Licencia
-
-[Añadir información de licencia aquí]
 
